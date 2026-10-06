@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.8",
-    "setupUrl":  "https://github.com/ppcciiss2-ux/pc-remote-updates/releases/download/windows-1.0.8/PcRemoteSetup-1.0.8.exe",
-    "sha256":  "14D3F3EEBD488DF366148936B1E8976EF7BE4672A5D9EBC6E9F299C2ACE73A54",
-    "notes":  "원격 조종 새 기능(휴대폰 0.5.0과 함께), 작업 관리자 정렬 방향, 화면 보기 고화질, 사용 안 함 장치 진단 제외"
+    "version":  "1.0.9",
+    "setupUrl":  "https://github.com/ppcciiss2-ux/pc-remote-updates/releases/download/windows-1.0.9/PcRemoteSetup-1.0.9.exe",
+    "sha256":  "0D635847F1B1E11D3EAD0B93BDAD3398B36BBE0556641B56EA73CAAA2AC79802",
+    "notes":  "밖에서 중계로 보낸 휴대폰 명령이 안 되던 문제 수정, CPU·메모리를 작업 관리자 기준으로, 프로그램별로 묶어 보기"
 }
