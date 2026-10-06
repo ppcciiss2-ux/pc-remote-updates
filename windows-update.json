@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.6",
-    "setupUrl":  "https://github.com/ppcciiss2-ux/pc-remote-updates/releases/download/windows-1.0.6/PcRemoteSetup-1.0.6.exe",
-    "sha256":  "FBA164FAEA69959FFE09F0E14A2EEC5B5E5D618DEA76A327E94086A52407532E",
-    "notes":  "새 화면(어두운 테마, 알림, 확인 창)과 전원 예약 1분 전 경고 창"
+    "version":  "1.0.8",
+    "setupUrl":  "https://github.com/ppcciiss2-ux/pc-remote-updates/releases/download/windows-1.0.8/PcRemoteSetup-1.0.8.exe",
+    "sha256":  "14D3F3EEBD488DF366148936B1E8976EF7BE4672A5D9EBC6E9F299C2ACE73A54",
+    "notes":  "원격 조종 새 기능(휴대폰 0.5.0과 함께), 작업 관리자 정렬 방향, 화면 보기 고화질, 사용 안 함 장치 진단 제외"
 }
