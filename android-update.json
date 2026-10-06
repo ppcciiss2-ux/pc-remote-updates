@@ -1,7 +1,7 @@
 {
-    "versionCode":  4,
-    "versionName":  "0.3.1",
-    "apkUrl":  "https://github.com/ppcciiss2-ux/pc-remote-updates/releases/download/android-0.3.1/PcRemote-android-0.3.1.apk",
-    "sha256":  "0FF8A03384E1759F0F6FDCC79CBEE9C2839D9EF26DAAF0DEC51722822E0DE66D",
-    "notes":  "QR 연결, 집 안 직접 / 밖 중계 자동 전환, 업데이트 확인 위치 변경"
+    "versionCode":  5,
+    "versionName":  "0.4.0",
+    "apkUrl":  "https://github.com/ppcciiss2-ux/pc-remote-updates/releases/download/android-0.4.0/PcRemote-android-0.4.0.apk",
+    "sha256":  "DFB0D0E57AE480F85410A7DF28B8316D5B6BFD9B1E8550E77FD4D71C540106D8",
+    "notes":  "화면을 새로 꾸몄습니다: 밝게·어둡게 테마, PC 상태 게이지, 새 아이콘과 기능 화면"
 }
