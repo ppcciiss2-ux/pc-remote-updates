@@ -1,7 +1,7 @@
 {
-    "versionCode":  5,
-    "versionName":  "0.4.0",
-    "apkUrl":  "https://github.com/ppcciiss2-ux/pc-remote-updates/releases/download/android-0.4.0/PcRemote-android-0.4.0.apk",
-    "sha256":  "DFB0D0E57AE480F85410A7DF28B8316D5B6BFD9B1E8550E77FD4D71C540106D8",
-    "notes":  "화면을 새로 꾸몄습니다: 밝게·어둡게 테마, PC 상태 게이지, 새 아이콘과 기능 화면"
+    "versionCode":  6,
+    "versionName":  "0.5.0",
+    "apkUrl":  "https://github.com/ppcciiss2-ux/pc-remote-updates/releases/download/android-0.5.0/PcRemote-android-0.5.0.apk",
+    "sha256":  "D5EDEA18AAE08F13923DD6015B58DC62A4204406E17FD23152C58C77B2C98C1A",
+    "notes":  "원격 조종을 새로 만들었습니다(전체 화면·트랙패드/터치·자판·확대, PC 1.0.8 필요), 작업 관리자 정렬 방향, 화면 보기 고화질"
 }
