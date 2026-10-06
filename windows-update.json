@@ -1,0 +1,6 @@
+{
+    "version":  "1.0.6",
+    "setupUrl":  "https://github.com/ppcciiss2-ux/pc-remote-updates/releases/download/windows-1.0.6/PcRemoteSetup-1.0.6.exe",
+    "sha256":  "FBA164FAEA69959FFE09F0E14A2EEC5B5E5D618DEA76A327E94086A52407532E",
+    "notes":  "새 화면(어두운 테마, 알림, 확인 창)과 전원 예약 1분 전 경고 창"
+}
