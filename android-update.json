@@ -1,0 +1,7 @@
+{
+    "versionCode":  4,
+    "versionName":  "0.3.1",
+    "apkUrl":  "https://github.com/ppcciiss2-ux/pc-remote-updates/releases/download/android-0.3.1/PcRemote-android-0.3.1.apk",
+    "sha256":  "0FF8A03384E1759F0F6FDCC79CBEE9C2839D9EF26DAAF0DEC51722822E0DE66D",
+    "notes":  "QR 연결, 집 안 직접 / 밖 중계 자동 전환, 업데이트 확인 위치 변경"
+}
