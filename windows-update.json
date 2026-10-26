@@ -1,6 +1,6 @@
 {
-    "version":  "1.1.0",
-    "setupUrl":  "https://github.com/ppcciiss2-ux/pc-remote-updates/releases/download/windows-1.1.0/PcRemoteSetup-1.1.0.exe",
-    "sha256":  "1A592542067E214CB0274A68731C85C020DDA550C2CA86FDFA96D79780C63FA9",
-    "notes":  "게임 자동 실행 추가(STOVE 자동 로그인·계정 전환·로스트아크 실행, 관리 앱 [게임] 화면), 관리 앱 화면이 바로 보이게, 작업 관리자에 프로그램 이름 표시, 원격 조종 메모리·모니터 2 화면 잘림 수정"
+    "version":  "1.1.1",
+    "setupUrl":  "https://github.com/ppcciiss2-ux/pc-remote-updates/releases/download/windows-1.1.1/PcRemoteSetup-1.1.1.exe",
+    "sha256":  "B34119BF5C16C5E88145547A6AC491DA5DFF11DB6F86E0AFC8E1FDF7C83DA6AE",
+    "notes":  "관리 앱 [연결] 화면에 게임 자동 실행 허용 스위치 추가(휴대폰 게임 화면을 쓰려면 켜기), 다른 스위치를 바꿔도 게임 허용이 유지되게 수정"
 }
