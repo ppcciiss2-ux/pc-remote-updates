@@ -1,6 +1,6 @@
 {
-    "version":  "1.1.1",
-    "setupUrl":  "https://github.com/ppcciiss2-ux/pc-remote-updates/releases/download/windows-1.1.1/PcRemoteSetup-1.1.1.exe",
-    "sha256":  "B34119BF5C16C5E88145547A6AC491DA5DFF11DB6F86E0AFC8E1FDF7C83DA6AE",
-    "notes":  "관리 앱 [연결] 화면에 게임 자동 실행 허용 스위치 추가(휴대폰 게임 화면을 쓰려면 켜기), 다른 스위치를 바꿔도 게임 허용이 유지되게 수정"
+    "version":  "1.1.3",
+    "setupUrl":  "https://github.com/ppcciiss2-ux/pc-remote-updates/releases/download/windows-1.1.3/PcRemoteSetup-1.1.3.exe",
+    "sha256":  "CA12E24FB1627F189FB5C32AE0B559409F3BAD5B50C4917699D027353870EE5F",
+    "notes":  "예약 날짜·즉시 종료 오류 안내, 강제 종료는 고른 프로그램만, 화면 공유 띠 클릭 통과, 연결 코드 유지, 중계 연결 보안 강화"
 }
