@@ -1,7 +1,7 @@
 {
-    "versionCode":  8,
-    "versionName":  "0.5.2",
-    "apkUrl":  "https://github.com/ppcciiss2-ux/pc-remote-updates/releases/download/android-0.5.2/PcRemote-android-0.5.2.apk",
-    "sha256":  "0AE65D425756B1E9D036670F4B12404FFD4DD106D4F99FCF7710302344C6F092",
-    "notes":  "게임 화면 추가(STOVE 계정으로 로스트아크 실행·계정 전환, PC 1.1.0 필요), 작업 관리자를 프로그램별로 묶고 이름 표시, 뒤로 두 번 눌러 종료, 설정에 [최신 버전 확인]"
+    "versionCode":  9,
+    "versionName":  "0.5.3",
+    "apkUrl":  "https://github.com/ppcciiss2-ux/pc-remote-updates/releases/download/android-0.5.3/PcRemote-android-0.5.3.apk",
+    "sha256":  "A96076A1A20FAA41366AE4FD274811304D40C6A3A449C72F5CA557D2F0852E34",
+    "notes":  "예약 날짜 계산·예약 삭제 확인, 원격 조종 오류 화면, 어두운 테마 표시줄, 화면 이탈 시 오류 문구 수정"
 }
